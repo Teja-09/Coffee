@@ -8,5 +8,5 @@
 * Drink coffee and have a great day.
 * <b> Visit Again</b>
 <br>
-* Built using [Android Studio](https://developer.android.com/studio)
+* Built using [Android Studio](https://developer.android.com/studio/)
 
